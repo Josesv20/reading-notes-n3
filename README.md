@@ -51,13 +51,14 @@ Utilizamos el simbolo #
    *cursiva*
 
    Siento que el simbolo * es mas practico ya que el _ personalmente me confunde un poco al calcularlo
-6. ¿Cómo se crea un vínculo con Markdown?
+   
+5. ¿Cómo se crea un vínculo con Markdown?
 
    Para crear un vínculo se empieza con el texto entre [] y luego se agrega el link del vinculo entre (), ambos simbolos seguidos
 
    [Github](https://github.com)
    
-8. ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?
+6. ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?
 
    Los simbolos son los siguientes: -, * o +
    - Símbolo 1 -
