@@ -13,4 +13,4 @@ para mantener un buen Grouth minset es necesario lo siguiente:
 - Aprende de tus errores y procura no volver a caer en ellos
 ```
 Este articulo fue sacado del siguiente link:
-[https://www.atlassian.com/blog/inside-atlassian/growth-mindset]
+How you can benefit from a growth mindset(https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
