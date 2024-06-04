@@ -29,11 +29,11 @@ pero soy mas de jugar futbol, ademas de los deportes me gusta mucho los videojue
    
 Es un tipo de lenguaje de marcado que facilita la aplicación de formato a un texto, empleando una serie de caracteres de una forma especial.
 
-3. ¿Por qué utilizamos Markdown?
+2. ¿Por qué utilizamos Markdown?
    
 porque es una herramienta para crear un texto plano fácil de escribir y fácil de leer, y que pudiera convertirse de forma sencilla y válida a XHTML
 
-5. ¿Qué símbolo creará un encabezado en Markdown?
+3. ¿Qué símbolo creará un encabezado en Markdown?
    
 Utilizamos el simbolo #
 
