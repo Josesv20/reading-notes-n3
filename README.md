@@ -56,6 +56,7 @@ Utilizamos el simbolo #
    Para crear un vínculo se empieza con el texto entre [] y luego se agrega el link del vinculo entre (), ambos simbolos seguidos
 
    [Github](https://github.com)
+   
 8. ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?
 
    Los simbolos son los siguientes: -, * o +
