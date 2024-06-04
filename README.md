@@ -26,20 +26,29 @@ pero soy mas de jugar futbol, ademas de los deportes me gusta mucho los videojue
 - GTA
 ```
 1. ¿Qué es Markdown?
+   
 Es un tipo de lenguaje de marcado que facilita la aplicación de formato a un texto, empleando una serie de caracteres de una forma especial.
-2. ¿Por qué utilizamos Markdown?
+
+3. ¿Por qué utilizamos Markdown?
+   
 porque es una herramienta para crear un texto plano fácil de escribir y fácil de leer, y que pudiera convertirse de forma sencilla y válida a XHTML
-3. ¿Qué símbolo creará un encabezado en Markdown?
+
+5. ¿Qué símbolo creará un encabezado en Markdown?
    
 Utilizamos el simbolo #
+
 + ¿Cuántos necesitas para crear el título más grande?
 
   se necesita un #
+  
 # Título mas grande
+
 + ¿Cuántos necesitas para crear el título más pequeño?
 
   se necesita 6 ######
+  
 ###### Título mas pequeño
+
 4. Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?
 
    para usar negrita se usa ** ** o __ __
