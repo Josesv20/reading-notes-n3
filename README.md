@@ -1,7 +1,7 @@
 # reading-notes
 ~~ ~~Notas de lectura para mis cursos de Enter Tech School.~~ ~~
 
-* *Hola soy Martín, este es mi repositorio de Notas para mis cursos de Enter Tech School.* *
+* *Hola soy Martín Sanchez, este es mi repositorio de Notas para mis cursos de Enter Tech School.* *
 
 ## Grouth Minset
 
@@ -14,3 +14,5 @@ para mantener un buen Grouth minset es necesario lo siguiente:
 ```
 Este articulo fue sacado del siguiente link:
 [How you can benefit from a growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+![Imegen referencial](https://avatars.githubusercontent.com/u/42150007?v=4)
