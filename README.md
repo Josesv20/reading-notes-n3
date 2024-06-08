@@ -3,7 +3,7 @@ Jose Martin Sanchez Vargas
 
 ![Imagen de perfil](https://avatars.githubusercontent.com/u/42150007?v=4)
 
-Estudiante de decimo cilco de la carrera de Ingenieria de Computo y Sistemas
+Estudiante de decimo cilco de la carrera de Ingenieria de Computo y Sistemas, en este sitio web podremos encontrar las notas de lecrtura que vayamos realizando cada clase, realizando los read y los laboratorios de la clase.
 
 Correo: martinsv11@hotmail.com
 
