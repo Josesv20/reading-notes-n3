@@ -37,18 +37,25 @@ Proporciona enlaces a recursos adicionales y documentación oficial para aquello
 
 
 * ¿Qué es el control de versiones?
+
 Es un sistema que le permite revisar varias versiones de un archivo o conjunto de archivos registrando los cambios.
 
 * ¿Qué es “clone” en Git?
+
 Se utiliza para crear una copia exacta de un repositorio existente en un nuevo directorio local. Este comando es esencial cuando deseas trabajar en un proyecto que ya está alojado en un servidor remoto, como GitHub, GitLab, Bitbucket, o cualquier otro servicio de alojamiento de repositorios Git.
 
 * ¿Cuál es el comando para rastrear y preparar archivos?
+
 Los comandos para rastrear y preparar archivos son git add y git status.
 
 * ¿Cuál es el comando para tomar una instantánea de los archivos modificados?
+
 El comando para tomar una instantánea de los archivos modificados y confirmar los cambios es git commit. Este comando crea un nuevo commit que guarda una instantánea del estado actual del directorio de trabajo, incluyendo todos los cambios que han sido añadidos al área de preparación
 
 * ¿Cuál es el comando para enviar los archivos modificados a Github?
+
 git add .
+
 git commit -m "Descripción de los cambios"
+
 git push origin main
