@@ -7,7 +7,7 @@ Estructura básica de un documento HTML
 Un documento HTML típico comienza con una declaración <!DOCTYPE html> que define el tipo de documento y la versión de HTML utilizada. Luego, se organiza en varias secciones clave:
 
 <html>: La raíz del documento HTML.
-<head>: Contiene metadatos sobre el documento, como el título (<title>) y enlaces a hojas de estilo.
+<head>: Contiene metadatos sobre el documento, como el título (title) y enlaces a hojas de estilo.
 <body>: Incluye todo el contenido visible para los usuarios, como texto, imágenes, videos y enlaces.
 Elementos y Atributos
 Elementos: Definen la estructura y el contenido. Por ejemplo, <p> define un párrafo.
