@@ -56,7 +56,7 @@ Multimedios
 HTML también soporta elementos multimedia como imágenes (<img>), audio (<audio>) y video (<video>).
 
 
-Responde
+# Responde
 
 ¿Qué es HTML y por qué lo usamos?
 
