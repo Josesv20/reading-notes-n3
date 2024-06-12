@@ -4,7 +4,7 @@ Estructuras de paginas web con HTML
 HTML es el lenguaje estándar utilizado para crear y estructurar el contenido en la web. Utiliza "etiquetas" para definir elementos como párrafos, enlaces, imágenes, y otros componentes del contenido web.
 
 Estructura básica de un documento HTML
-Un documento HTML típico comienza con una declaración <!DOCTYPE html> que define el tipo de documento y la versión de HTML utilizada. Luego, se organiza en varias secciones clave:
+Un documento HTML típico comienza con una declaración !DOCTYPE html que define el tipo de documento y la versión de HTML utilizada. Luego, se organiza en varias secciones clave:
 
 html: La raíz del documento HTML.
 head: Contiene metadatos sobre el documento, como el título (title) y enlaces a hojas de estilo.
@@ -15,12 +15,12 @@ Atributos: Proporcionan información adicional sobre los elementos, como href en
 
 Enlaces y Listas
 Enlaces (a): Usados para crear hipervínculos. Ejemplo: (a href="https://example.com")Visita Example(/a).
-Listas: HTML soporta listas ordenadas (<ol>) y no ordenadas (<ul>), así como listas de definición (<dl>).
+Listas: HTML soporta listas ordenadas (ol) y no ordenadas (ul), así como listas de definición (dl).
 Formularios
-Los formularios (<form>) permiten a los usuarios enviar datos a un servidor. Incluyen varios controles de formulario como campos de texto (<input type="text">), botones (<button>), y áreas de texto (<textarea>).
+Los formularios (form) permiten a los usuarios enviar datos a un servidor. Incluyen varios controles de formulario como campos de texto (input type="text"), botones (button), y áreas de texto (textarea).
 
 Multimedios
-HTML también soporta elementos multimedia como imágenes (<img>), audio (<audio>) y video (<video>).
+HTML también soporta elementos multimedia como imágenes (img), audio (audio) y video (video).
 
 
 # Responde
