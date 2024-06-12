@@ -17,10 +17,10 @@ Enlaces y Listas
 Enlaces (a): Usados para crear hipervínculos. Ejemplo: (a href="https://example.com")Visita Example(/a).
 Listas: HTML soporta listas ordenadas (ol) y no ordenadas (ul), así como listas de definición (dl).
 Formularios
-Los formularios (form) permiten a los usuarios enviar datos a un servidor. Incluyen varios controles de formulario como campos de texto (input type="text"), botones (button), y áreas de texto (textarea).
+Los formularios (form) permiten a los usuarios enviar datos a un servidor. Incluyen varios controles de formulario como campos de texto 'input type="text"', botones 'button', y áreas de texto 'textarea'.
 
 Multimedios
-HTML también soporta elementos multimedia como imágenes (img), audio (audio) y video (video).
+HTML también soporta elementos multimedia como imágenes img, audio y video.
 
 
 # Responde
