@@ -6,15 +6,15 @@ HTML es el lenguaje estándar utilizado para crear y estructurar el contenido en
 Estructura básica de un documento HTML
 Un documento HTML típico comienza con una declaración <!DOCTYPE html> que define el tipo de documento y la versión de HTML utilizada. Luego, se organiza en varias secciones clave:
 
-<html>: La raíz del documento HTML.
-<head>: Contiene metadatos sobre el documento, como el título (title) y enlaces a hojas de estilo.
-<body>: Incluye todo el contenido visible para los usuarios, como texto, imágenes, videos y enlaces.
+html: La raíz del documento HTML.
+head: Contiene metadatos sobre el documento, como el título (title) y enlaces a hojas de estilo.
+body: Incluye todo el contenido visible para los usuarios, como texto, imágenes, videos y enlaces.
 Elementos y Atributos
-Elementos: Definen la estructura y el contenido. Por ejemplo, <p> define un párrafo.
-Atributos: Proporcionan información adicional sobre los elementos, como href en un enlace (<a>) que especifica la URL de destino.
+Elementos: Definen la estructura y el contenido. Por ejemplo, (p) define un párrafo.
+Atributos: Proporcionan información adicional sobre los elementos, como href en un enlace (a) que especifica la URL de destino.
 
 Enlaces y Listas
-Enlaces (<a>): Usados para crear hipervínculos. Ejemplo: <a href="https://example.com">Visita Example</a>.
+Enlaces (a): Usados para crear hipervínculos. Ejemplo: (a href="https://example.com")Visita Example(/a).
 Listas: HTML soporta listas ordenadas (<ol>) y no ordenadas (<ul>), así como listas de definición (<dl>).
 Formularios
 Los formularios (<form>) permiten a los usuarios enviar datos a un servidor. Incluyen varios controles de formulario como campos de texto (<input type="text">), botones (<button>), y áreas de texto (<textarea>).
