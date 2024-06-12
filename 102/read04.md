@@ -1,38 +1,5 @@
 Estructuras de paginas web con HTML
 
-El artículo en CareerFoundry sobre cómo crear tu primer wireframe ofrece una guía detallada para diseñadores principiantes en UX/UI. Aquí está el resumen:
-
-. Introducción a los wireframes: Explica qué son los wireframes y su importancia en el proceso de diseño, permitiendo a los diseñadores planificar la estructura y funcionalidad de una página web sin distracciones visuales.
-
-. Tipos de wireframes:
-
-* Wireframes de baja fidelidad: Dibujos básicos que se centran en el diseño y la funcionalidad general.
-
-* Wireframes de alta fidelidad: Más detallados y cercanos al diseño final, incluyendo especificaciones de estilo y contenido.
-
-. Herramientas para crear wireframes:
-
-Herramientas digitales como Sketch, Adobe XD y Figma, así como el uso de lápiz y papel para bocetos iniciales.
-
-. Proceso de creación de un wireframe:
-
-Investigación y planificación: Recopilar requisitos del proyecto y entender las necesidades del usuario.
-
-Dibujo y diseño: Comenzar con wireframes de baja fidelidad y progresar a versiones más detalladas.
-
-Feedback y iteración: Recibir opiniones de colegas y usuarios, y ajustar el diseño en consecuencia.
-
-. Consejos para wireframes efectivos:
-
-Mantener la simplicidad y claridad.
-
-Enfocarse en la funcionalidad y la experiencia del usuario.
-
-Utilizar anotaciones para explicar elementos específicos del diseño.
-
-
-El artículo "HTML básico" en MDN Web Docs proporciona una introducción completa al Lenguaje de Marcas de Hipertexto (HTML), que es fundamental para la creación de páginas web. Aquí tienes un resumen:
-
 ¿Qué es HTML?
 HTML es el lenguaje estándar utilizado para crear y estructurar el contenido en la web. Utiliza "etiquetas" para definir elementos como párrafos, enlaces, imágenes, y otros componentes del contenido web.
 
