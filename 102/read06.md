@@ -35,3 +35,22 @@ Funciones:
 . Funciones flecha: const nombre = () => { ... }.
 
 . Parámetros y argumentos, valores de retorno.
+
+
+# Responde
+
+¿Qué son las variables en JavaScript?
+
+Las variables son contenedores que almacenan datos que pueden ser utilizados y manipulados en un programa. Las variables permiten almacenar valores de diferentes tipos de datos y hacer referencia a esos valores por un nombre específico, las cuales son var, let y const.
+
+¿Qué significa “declarar” una variable?
+
+Significa crear una variable y darle un nombre, para que el programa pueda hacer referencia a ella más adelante.
+
+¿Qué es un operador de “asignación” y qué hace?
+
+Se utiliza para asignar un valor a una variable. El operador de asignación básico es =, que toma el valor a su derecha y lo asigna a la variable a su izquierda.
+
+¿Cómo se llama la información recibida del usuario?
+
+La información recibida del usuario se llama entrada de usuario o input del usuario.
