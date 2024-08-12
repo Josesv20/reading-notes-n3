@@ -12,13 +12,9 @@ Correo: martinsv11@hotmail.com
 [Perfil de Github](https://github.com/Josesv20)
 
 
-##Code 102 - Introducción al Desarrollo de Software
-##Code 201 - Fundamentos del Desarrollo de Software
-##Code 301 - Desarrollo de Software Nivel Intermedio
-##Code 401 - Desarrollo de Software Nivel Avanzado
+## Code 102 - Introducción al Desarrollo de Software
 
-
-## Notas de lectura del Codigo 102
+### Notas de lectura del Codigo 102
 1. [Aprendiendo-Markdown](/102/Aprendiendo-Markdown.md)
 2. [Linea de Comandos](/102/read02.md)
 3. [Versionamiento Local y Remoto](/102/read03.md)
@@ -28,7 +24,9 @@ Correo: martinsv11@hotmail.com
 7. [Flujo de control y funciones con JavaScript](/102/read07.md)
 8. [Operadores y bucles con JavaScript](/102/read08.md)
 
-## Notas de Lectura del Codigo 201
+## Code 201 - Fundamentos del Desarrollo de Software
+
+### Notas de Lectura del Codigo 201
 1. [Clase 01](/201/read01.md)
 2. [Clase 02](/201/read02.md)
 3. [Clase 03](/201/read03.md)
@@ -44,3 +42,10 @@ Correo: martinsv11@hotmail.com
 13. [Clase 13](/201/read13.md)
 14. [Clase 14](/201/read14.md)
 15. [Clase 15](/201/read15.md)
+    
+## Code 301 - Desarrollo de Software Nivel Intermedio
+## Code 401 - Desarrollo de Software Nivel Avanzado
+
+
+
+
